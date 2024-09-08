@@ -1,3 +1,3 @@
-TOKEN = "7173015902:AAG_lEuv7U9o-7T8yrz-b_cwgzrfnKbaO4U"
-api_key = "A9933FF3DACB02861250B77685B40903"
-api_secret = "EFB5C82E5A63D34116EAB6CF762695B0"
+TOKEN = "Your Bot token here"
+api_key = "api key here
+api_secret = "api secret key gere"
